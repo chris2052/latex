@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1286.3779"
+   height="42.377953"
+   overflow="hidden"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="farbverlauf_breit.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="0.58193571"
+     inkscape:cx="519.94979"
+     inkscape:cy="204.07715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs6">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient868-4">
+      <stop
+         style="stop-color:#611543;stop-opacity:1;"
+         offset="0"
+         id="stop881" />
+      <stop
+         style="stop-color:#c0504d;stop-opacity:0.93725491"
+         offset="1"
+         id="stop883" />
+    </linearGradient>
+    <clipPath
+       id="clip0">
+      <rect
+         x="-3"
+         y="666"
+         width="1288"
+         height="44"
+         id="rect2" />
+    </clipPath>
+    <image
+       width="1286"
+       height="42"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABQYAAAAqCAMAAADWK3Z1AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAGSUExURQAAAMZVVcBQTmEVQ2EVQ2IVQ2IWQ2MWQ2QXQ2UXQ2UYQ2YYRGcZRGgZRGgaRGkaRGoaRGobRGsbRGwcRG0cRG0dRG4dRG4dRW8eRXAeRXAfRXEfRXIfRXIgRXMgRXQhRXUhRXUiRXYiRXcjRXcjRngjRngkRnkkRnolRnslRnwmRn0mRn0nRn4nRn8oRoAoR4ApR4EpR4IqR4MqR4QrR4UrR4YsR4csR4ctR4gtR4kuR4kuSIouSIovSIsvSIwwSI0wSI4xSI8xSI8ySJAySJEzSJIzSZI0SZM0SZQ1SZU1SZY2SZc2SZc3SZg3SZk4SZo4SZo5SZs5SZs5Spw6Sp06Sp47Sp87Sp88SqA8SqE9SqI9SqI+SqM+SqQ/SqU/SqZASqZAS6dAS6dBS6hBS6lCS6pCS6pDS6tDS6xES61ES61FS65FS69FS69GS7BGS7FGTLFHTLJHTLNITLRITLRJTLVJTLZKTLdKTLhLTLlLTLlMTLpMTLtNTLtNTbxNTbxOTb1OTb5PTb9PTb9QTcBQTeL/XHcAAAAEdFJOUwAJib8N3dAKAAAACXBIWXMAAA7DAAAOwwHHb6hkAAADD0lEQVR4Xu3UZ/sIBBjF4b/SFg3KyGiSUUhJEe09aGmIpEmlpD0I37tznutcj2+gF8/v/hD3AgBMd/ViXCHX2LV2Xbu+3WA32k1tSbvZltqydovdardddntbbivsDrvTVrZVttrWtLtsra1r69sGu9vuaffafXa/PWAb26b2YNvctthW29Yeag/bdtvRdrZH2i57tD3Wdtvjtqc9YU/aXttnT7X97UB7uj1jz9pz7fn2gr1oL7WX2yvt1faavW5vtDfbW3bQDtnb9o69295r79th+6B92D6yj+1I+6QdtWP2qR23z8qJ9nn7wr60r9rX7Rs7aafsW/vOvm+n7Qf7sZ1pP9lZ+7n90n6139rv9of92f6yv+0fO2fn27/tgl20S5euWkSDVxINSg4UGqTBkgOFBgegQcmBQoM0WHKg0OAANCg5UGiQBksOFBocgAYlBwoN0mDJgUKDA9Cg5EChQRosOVBocAAalBwoNEiDJQcKDQ5Ag5IDhQZpsORAocEBaFByoNAgDZYcKDQ4AA1KDhQapMGSA4UGB6BByYFCgzRYcqDQ4AA0KDlQaJAGSw4UGhyABiUHCg3SYMmBQoMD0KDkQKFBGiw5UGhwABqUHCg0SIMlBwoNDkCDkgOFBmmw5EChwQFoUHKg0CANlhwoNDgADUoOFBqkwZIDhQYHoEHJgUKDNFhyoNDgADQoOVBokAZLDhQaHIAGJQcKDdJgyYFCgwPQoORAoUEaLDlQaHAAGpQcKDRIgyUHCg0OQIOSA4UGabDkQKHBAWhQcqDQIA2WHCg0OAANSg4UGqTBkgOFBgegQcmBQoM0WHKg0OAANCg5UGiQBksOFBocgAYlBwoN0mDJgUKDA9Cg5EChQRosOVBocAAalBwoNEiDJQcKDQ5Ag5IDhQZpsORAocEBaFByoNAgDZYcKDQ4AA1KDhQapMGSA4UGB6BByYFCgzRYcqDQ4AA0KDlQaJAGSw4UGhyABiUHCg3SYMmBQoMD0KDkQKFBGiw5UGhwABqUHCg0SIMlB8r/1yAAAACmWlj4D6qiHqGW7It+AAAAAElFTkSuQmCC"
+       preserveAspectRatio="none"
+       id="img1" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient868-4"
+       id="linearGradient879"
+       x1="-1.4970431"
+       y1="18.327621"
+       x2="1279.7257"
+       y2="18.327621"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1.4970431,2.8613553)" />
+  </defs>
+  <rect
+     style="mix-blend-mode:normal;fill:url(#linearGradient879);fill-opacity:1;stroke:none;stroke-width:0.377953;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     id="rect841"
+     width="1286"
+     height="42"
+     x="0.1889765"
+     y="0.1889765" />
+</svg>
