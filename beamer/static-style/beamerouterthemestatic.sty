@@ -14,18 +14,18 @@
     \hfill\includegraphics[height=.7cm]{img/uni_logos/uni-siegen_farbig_cmyk.pdf}\hspace*{1mm}
     \vspace*{1mm}
 
-    \begin{beamercolorbox}[ht=1ex, wd=\paperwidth]{footer}
+    \begin{beamercolorbox}[ht=1ex, wd=\paperwidth]{colorbar}
         
     \end{beamercolorbox}
     \vspace{.15cm}
-    %\includegraphics[width=\textwidth]{img/farbverlauf_schmal.pdf}
+    %\includegraphics[width=\paperwidth]{img/farbverlauf_schmal.pdf}
 }
 
 \setbeamertemplate{footline}{
     % \includegraphics[width=\paperwidth]{img/farbverlauf_breit.pdf}
     % \vspace{.2cm}
     % \insertframenumber
-    \begin{beamercolorbox}[ht=1em, wd=\paperwidth, right]{footer}
+    \begin{beamercolorbox}[ht=1em, wd=\paperwidth, right]{colorbar}
         \strut\insertframenumber\hspace{1em}
     \end{beamercolorbox}
     \vspace{.15cm}
@@ -38,8 +38,9 @@
 	\usebeamerfont{subtitle}{\usebeamercolor[fg]{subtitle}\insertsubtitle}\par
 	\bigskip
 	\usebeamerfont{author}\insertauthor\par
+    \bigskip
 	\usebeamerfont{institute}\insertinstitute\par
-	\usebeamerfont{date}\insertdate
+	% \usebeamerfont{date}\insertdate
 }
 
 \mode<all>
